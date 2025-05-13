@@ -206,13 +206,14 @@ header .social-icon li a
 	{
 		background: url('../images/home-bg.jpg') no-repeat;
 		background-size: cover;
-		
+		background-position: center;
+		min-height: 750px;
 	}
 .overlay{
 	background-color: rgba(101, 101, 101, 0.575);
 	padding-top: 130px;
 	padding-bottom: 130px;
-	min-height: 650px;
+	min-height: 750px;
 }
 #home h1
 	{
